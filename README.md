@@ -1,6 +1,6 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	本项目为[http://ncase.me/trust/](http://ncase.me/trust/)的非官方简体中文版，地址为[http://sekai.co/trust/](http://sekai.co/trust/)
+#	本项目为[http://ncase.me/trust/](http://ncase.me/trust/)的非官方简体中文版，地址为[https://dccxi.com/trust/](https://dccxi.com/trust/)
 
 本作品 *信任的进化* （译名参考罗伯特·阿克塞尔罗德的《合作的进化》）属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
 
@@ -42,7 +42,7 @@ so that others know you're working on it!]**
 
 Translations done so far:
 [Japanese](https://htlife.github.io/trust_jp/),
-[Chinese (Simplified)](https://sekai.co/trust/),
+[Chinese (Simplified)](https://dccxi.com/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
 [Brazilian Portuguese](https://brunolemos.github.io/trust/),
 [French](https://ayowel.github.io/trust/),
@@ -63,14 +63,14 @@ Translations done so far:
 [Korean](https://osori.github.io/trust-ko/),
 [Romanian](https://enfactorial.github.io/trust/)
 
-**Step 1)** Fork or download this repo    
+**Step 1)** Fork or download this repo
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
 
 **Step 2)** Translate the following files:
 
-`index.html` -- The title & social sharing text (a few words)    
-`words.html` -- All the words for the interactive itself (~3,300 words)    
-(optional) `notes/index.html` -- The footnotes (~1,100 words)    
+`index.html` -- The title & social sharing text (a few words)
+`words.html` -- All the words for the interactive itself (~3,300 words)
+(optional) `notes/index.html` -- The footnotes (~1,100 words)
 (optional) `peeps/index.html` -- The full credits (a few words)
 
 **Step 3)** Remember to test your translation! You can test things locally using [http-server](https://www.npmjs.com/package/http-server) or [MAMP](https://www.mamp.info/en/).
