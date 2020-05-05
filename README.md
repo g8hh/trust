@@ -1,6 +1,6 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	本项目为[http://ncase.me/trust/](http://ncase.me/trust/)的非官方简体中文版，地址为[https://dccxi.com/trust/](https://dccxi.com/trust/)
+#	本项目为[http://ncase.me/trust/](http://ncase.me/trust/)的社区简体中文版，地址为[https://dccxi.com/trust/](https://dccxi.com/trust/)
 
 本作品 *信任的进化* （译名参考罗伯特·阿克塞尔罗德的《合作的进化》）属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
 
