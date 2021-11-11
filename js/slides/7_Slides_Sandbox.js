@@ -22,7 +22,7 @@ SLIDES.push({
 			text_id:"sandbox_end_btn",
 			message: "slideshow/scratch"
 		});
-		
+
 	},
 	onend: function(self){
 		self.clear();
