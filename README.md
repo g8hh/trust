@@ -1,12 +1,12 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	PLAY IT HERE: [http://ncase.me/trust/](http://ncase.me/trust/)
+#	本项目为[http://ncase.me/trust/](http://ncase.me/trust/)的社区简体中文版，地址为[https://dccxi.com/trust/](https://dccxi.com/trust/)
 
-*The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
+本作品 *信任的进化* （译名参考罗伯特·阿克塞尔罗德的《合作的进化》）属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
 
-**Music:** "Bleu" by Komiku (CC Zero). [Download their full album on Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+**音乐：** "Bleu" by Komiku (CC Zero). [在 Free Music Archive 上下载他们的整张专辑](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
-**Sound Effects:**
+**音效：**
 
 * [Coin insert](https://freesound.org/people/bassmosphere/sounds/384700/) by bassmosphere (CC Zero)
 * [Coin get!](https://freesound.org/people/plasterbrain/sounds/242857/) by plasterbrain (CC Zero)
@@ -19,17 +19,17 @@
 * [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) by Brokenphono (CC Zero)
 * [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) by DSISStudios (CC Zero)
 
-**Open Source Libraries:**
+**开源代码库：**
 
-* [PIXI.js](http://www.pixijs.com/) for rendering graphics
-* [Howler.js](https://howlerjs.com/) for the audio
-* [Tween.js](http://www.createjs.com/tweenjs) for tweening animation
-* [Balloon.css](https://kazzkiq.github.io/balloon.css/) for pop-up tooltips
-* [Q](https://github.com/kriskowal/q/) for promises
-* [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
-* [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
+* [PIXI.js](http://www.pixijs.com/) 用于渲染图像
+* [Howler.js](https://howlerjs.com/) 用于声音
+* [Tween.js](http://www.createjs.com/tweenjs) 用于动画补间(感谢 V2EX 的 @geelaw 指正翻译)
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/) 用于弹窗显示工具小提示
+* [Q](https://github.com/kriskowal/q/) 用于 promises
+* [MinPubSub](https://github.com/daniellmb/MinPubSub) 用于发布和订阅
+* [Pegasus](https://github.com/typicode/pegasus) 用于……我懒得不想写自己的 XHR
 
-**Font:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
+**字体：** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
 
 #	How-To: Translate this thang!
 
@@ -42,7 +42,7 @@ so that others know you're working on it!]**
 
 Translations done so far:
 [Japanese](https://htlife.github.io/trust_jp/),
-[Chinese (Simplified)](https://sekai.co/trust/),
+[Chinese (Simplified)](https://dccxi.com/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
 [Brazilian Portuguese](https://brunolemos.github.io/trust/),
 [French](https://ayowel.github.io/trust/),
@@ -79,14 +79,14 @@ Translations done so far:
 [Filipino (Tagalog)](https://tiwalaph.github.io/TiwalaPH/),
 [Esperanto](https://januscahill.github.io/trust/)
 
-**Step 1)** Fork or download this repo    
+**Step 1)** Fork or download this repo
 (if you're forking it, be sure to make sure *your* repo is on a branch called `gh-pages`, so that GitHub can automatically generate a webpage for it!)
 
 **Step 2)** Translate the following files:
 
-`index.html` -- The title & social sharing text (a few words)    
-`words.html` -- All the words for the interactive itself (~3,300 words)    
-(optional) `notes/index.html` -- The footnotes (~1,100 words)    
+`index.html` -- The title & social sharing text (a few words)
+`words.html` -- All the words for the interactive itself (~3,300 words)
+(optional) `notes/index.html` -- The footnotes (~1,100 words)
 (optional) `peeps/index.html` -- The full credits (a few words)
 
 **Step 3)** Remember to test your translation! You can test things locally using [http-server](https://www.npmjs.com/package/http-server) or [MAMP](https://www.mamp.info/en/).
@@ -97,6 +97,6 @@ Translations done so far:
 
 **Step 6)** Party! 🎉
 
-#	"LICENSE"
+#	"许可协议"
 
-[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): it's a public domain dedication, so basically, do whatever you want! Attribution is super appreciated, but I'm not gonna send legal goons after you or anything.
+[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): 本协议适用于对于公共领域的无私奉献，从根本上来说，您可以做任何事！欢迎署名，我不会对您追究任何法律责任。
